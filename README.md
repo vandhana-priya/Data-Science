@@ -1,2 +1,2 @@
 # Data-Science
-My data science projects
+My data science assignments for online courses from coursera and udemy
